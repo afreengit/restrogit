@@ -1,0 +1,1 @@
+CREATE TABLE `restro`.`dish_cart` ( `user_id` INT NOT NULL AUTO_INCREMENT , `dish` VARCHAR(100) NOT NULL , PRIMARY KEY (`user_id`)) ENGINE = InnoDB;
